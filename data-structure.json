@@ -1,0 +1,41 @@
+{
+    "chats": {
+      "yDTjKnbvgpXmfuE8oCLT3Y5ucyG3": {
+        "CckQa2CJsmN232dS1bLYhZ0KMtX2": {
+          "MESSAGEID1": {
+            "from": "them",
+            "text": "Hi how are you?"
+          },
+          "MESSAGEID2": {
+            "from": "me",
+            "text": "Good thanks, how are you?"
+          }
+        }
+      },
+      "CckQa2CJsmN232dS1bLYhZ0KMtX2": {
+        "yDTjKnbvgpXmfuE8oCLT3Y5ucyG3": {
+          "MESSAGEID1": {
+            "from": "me",
+            "text": "Hi how are you?"
+            
+          },
+          "MESSAGEID2": {
+            "from": "them",
+            "text": "Good thanks, how are you?"
+          }
+        }
+      }
+    },
+    "users": {
+      "CckQa2CJsmN232dS1bLYhZ0KMtX2": {
+        "email": "nathan2@test.com",
+        "name": "Nathan2",
+        "online": true
+      },
+      "yDTjKnbvgpXmfuE8oCLT3Y5ucyG3": {
+        "email": "nathan@test.com",
+        "name": "Nathan",
+        "online": false
+      }
+    }
+  }
