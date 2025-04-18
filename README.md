@@ -58,7 +58,7 @@ A secure, real-time chat application built with **Vue.js** and the **Quasar Fram
 
 ---
 
-## 🔗 Live Links
+## 🔗 Links
 
 - 🌐 **Website**: [chat-55a76.web.app](https://chat-55a76.web.app/#/auth)  
 - 🎥 **Video Demo**: [Watch on Google Drive](https://drive.google.com/file/d/1EzaCifBafGvaQluX7zmfk1MRs3IsTnuR/view)  
