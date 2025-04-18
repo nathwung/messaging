@@ -1,7 +1,7 @@
 # 💬 Messaging Website
 
-[![Built with Vue](https://img.shields.io/badge/Built%20with-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Built with Quasar](https://img.shields.io/badge/Built%20with-Quasar-1976d2?style=for-the-badge&logo=quasar&logoColor=white)](https://quasar.dev/)
+[![Vue.js](https://img.shields.io/badge/Built%20with-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Quasar](https://img.shields.io/badge/Framework-Quasar-1976d2?style=for-the-badge&logo=quasar&logoColor=white)](https://quasar.dev/)
 [![Powered by Firebase](https://img.shields.io/badge/Powered%20by-Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Deployed on Firebase Hosting](https://img.shields.io/badge/Hosted%20on-Firebase%20Hosting-FF5722?style=for-the-badge&logo=firebase&logoColor=white)](https://chat-55a76.web.app)
 
