@@ -3,7 +3,6 @@
 [![Built with Vue](https://img.shields.io/badge/Built%20with-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Powered by Firebase](https://img.shields.io/badge/Powered%20by-Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Deployed on Firebase Hosting](https://img.shields.io/badge/Hosted%20on-Firebase%20Hosting-FF5722?style=for-the-badge&logo=firebase&logoColor=white)](https://chat-55a76.web.app)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 A secure, real-time chat application built with **Vue.js** and the **Quasar Framework**, integrated with **Firebase Authentication** and **Realtime Database**. The platform enables 1-on-1 messaging with live user presence, image sharing, and smart timestamps. Deployed seamlessly with Firebase Hosting.
 
